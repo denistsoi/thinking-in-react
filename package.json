@@ -1,0 +1,17 @@
+{
+  "name": "thinking-in-react",
+  "version": "1.0.0",
+  "description": "collection of exercises/solutions from `workshopper` thinking-in-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Denis Tsoi <denistsoi@gmail.com> (https://github.com/denistsoi)",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^15.1.0",
+    "react-addons-test-utils": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
